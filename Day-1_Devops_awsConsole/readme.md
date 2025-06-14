@@ -1,51 +1,58 @@
-**Class Work**
+# ☁️ AWS VPC Lab – EC2, Subnet, Security Group, NAT Gateway
 
-Key-pair created->
-![alt text](<Screenshot 2025-06-11 121509.png>)
+## 📘 Class Work
 
-Internet gateway created->
-![alt text](<Screenshot 2025-06-11 122517.png>) ![alt text](<Screenshot 2025-06-11 122646.png>)
+### 🔐 Key Pair Created
+![Key Pair](<Screenshot 2025-06-11 121509.png>)
 
-Subnet created->
-![alt text](<Screenshot 2025-06-11 122625.png>)
+### 🌐 Internet Gateway Created
+![Internet Gateway](<Screenshot 2025-06-11 122517.png>)  
+![IGW Attached](<Screenshot 2025-06-11 122646.png>)
 
-Route table created-> 
-![alt text](<Screenshot 2025-06-11 122906.png>)
+### 🧱 Subnet Created
+![Subnet](<Screenshot 2025-06-11 122625.png>)
 
-Security groups created->
-![alt text](<Screenshot 2025-06-11 123322.png>)
+### 🛣️ Route Table Created
+![Route Table](<Screenshot 2025-06-11 122906.png>)
 
-Launched EC2 insctance->
-![alt text](<Screenshot 2025-06-11 124848.png>)
+### 🔒 Security Groups Created
+![Security Groups](<Screenshot 2025-06-11 123322.png>)
 
-Result->
-![alt text](<Screenshot 2025-06-11 135300.png>)
+### 🚀 EC2 Instance Launched
+![EC2 Launched](<Screenshot 2025-06-11 124848.png>)
 
+### ✅ Final Result
+![Final Result](<Screenshot 2025-06-11 135300.png>)
 
-**Home Assignment**
+---
 
-EC2 instances->
-![alt text](<Screenshot 2025-06-11 155112.png>)
+## 🏠 Home Assignment
 
-Security groups->
-![alt text](<Screenshot 2025-06-11 153623.png>)
+### 🖥️ EC2 Instances
+![EC2 Instances](<Screenshot 2025-06-11 155112.png>)
 
-Inbound rules->
-![alt text](<Screenshot 2025-06-11 204347.png>)
+### 🔐 Security Groups
+![Security Groups](<Screenshot 2025-06-11 153623.png>)
 
-Terminal PING->
-![alt text](<Screenshot 2025-06-11 210047.png>)
+### 📥 Inbound Rules
+![Inbound Rules](<Screenshot 2025-06-11 204347.png>)
 
-Public IP of server-> 10.0.2.115
+### 🧪 Terminal Ping Test
+![Ping Test](<Screenshot 2025-06-11 210047.png>)
 
-Architechture->
-![alt text](<Screenshot 2025-06-11 211357.png>)
+> **Public IP of Server:** `10.0.2.115`
 
+### 🧱 Architecture Diagram
+![Architecture](<Screenshot 2025-06-11 211357.png>)
 
-**Bonus**
+---
 
-NAT->
-![alt text](<Screenshot 2025-06-11 211443.png>)
+## 🎁 Bonus: NAT Gateway
 
-PING->
-![alt text](<Screenshot 2025-06-11 211416.png>)
+### 🛰️ NAT Gateway
+![NAT Gateway](<Screenshot 2025-06-11 211443.png>)
+
+### 🧪 Private Subnet Internet Test (via NAT)
+![Private Ping Test](<Screenshot 2025-06-11 211416.png>)
+
+---
