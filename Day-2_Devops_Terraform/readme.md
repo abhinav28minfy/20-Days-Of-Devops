@@ -1,41 +1,82 @@
-**Class Work**
+# ☁️ Terraform S3 & EC2 Infrastructure Setup
 
-Basic S3->
-![alt text](<SS_01/Screenshot 2025-06-12 134118.png>)
-![alt text](<SS_01/Screenshot 2025-06-12 134239.png>)
-![alt text](<SS_01/Screenshot 2025-06-12 134342.png>)
-![alt text](<SS_01/Screenshot 2025-06-12 134032.png>)
-![alt text](<SS_01/Screenshot 2025-06-12 134438.png>)
+## 📘 Class Work
 
-Remote Backend->
-![alt text](<SS_02/Screenshot 2025-06-14 154809.png>)
+### 📦 Basic S3 Setup  
+<br>  
+<img src="SS_01/Screenshot 2025-06-12 134118.png" width="600"/>  
+<br>  
+<img src="SS_01/Screenshot 2025-06-12 134239.png" width="600"/>  
+<br>  
+<img src="SS_01/Screenshot 2025-06-12 134342.png" width="600"/>  
+<br>  
+<img src="SS_01/Screenshot 2025-06-12 134032.png" width="600"/>  
+<br>  
+<img src="SS_01/Screenshot 2025-06-12 134438.png" width="600"/>  
+<br><br>
 
-End-to-End->
-![alt text](<SS_03/Screenshot 2025-06-12 163045.png>)
-![alt text](<SS_03/Screenshot 2025-06-13 112702.png>)
-![alt text](<SS_03/Screenshot 2025-06-13 112702.png>)
-![alt text](<SS_03/Screenshot 2025-06-13 112825.png>)
-![alt text](<SS_03/Screenshot 2025-06-13 113017.png>)
+### 🗄️ Remote Backend Configuration  
+<br>  
+<img src="SS_02/Screenshot 2025-06-14 154809.png" width="600"/>  
+<br><br>
 
+### 🔄 End-to-End Infrastructure Deployment  
+<br>  
+<img src="SS_03/Screenshot 2025-06-12 163045.png" width="600"/>  
+<br>  
+<img src="SS_03/Screenshot 2025-06-13 112702.png" width="600"/>  
+<br>  
+<img src="SS_03/Screenshot 2025-06-13 112702.png" width="600"/> <!-- Repeated image, consider replacing if needed -->
+<br>  
+<img src="SS_03/Screenshot 2025-06-13 112825.png" width="600"/>  
+<br>  
+<img src="SS_03/Screenshot 2025-06-13 113017.png" width="600"/>  
+<br><br>
 
-**Home Assignment**
+---
 
-Static website hosting->
-![alt text](<SS_H1/Screenshot 2025-06-13 003928.png>)
-![alt text](<SS_H1/Screenshot 2025-06-13 011012.png>)
-![alt text](<SS_H1/Screenshot 2025-06-13 011057.png>)
-![alt text](<SS_H1/Screenshot 2025-06-13 010813.png>)
-![alt text](<SS_H1/Screenshot 2025-06-13 011118.png>)
+## 🏠 Home Assignment
 
-Reusable Modules->
-![alt text](<SS_H2/Screenshot 2025-06-13 103709.png>)
-![alt text](<SS_H2/Screenshot 2025-06-13 105241.png>)
-![alt text](<SS_H2/Screenshot 2025-06-13 111802.png>)
-![alt text](<SS_H2/Screenshot 2025-06-13 111922.png>)
-![alt text](<SS_H2/Screenshot 2025-06-13 112011.png>)
-![alt text](<SS_H2/Screenshot 2025-06-13 112153.png>)
+### 🌐 Static Website Hosting on S3  
+<br>  
+<img src="SS_H1/Screenshot 2025-06-13 003928.png" width="600"/>  
+<br>  
+<img src="SS_H1/Screenshot 2025-06-13 011012.png" width="600"/>  
+<br>  
+<img src="SS_H1/Screenshot 2025-06-13 011057.png" width="600"/>  
+<br>  
+<img src="SS_H1/Screenshot 2025-06-13 010813.png" width="600"/>  
+<br>  
+<img src="SS_H1/Screenshot 2025-06-13 011118.png" width="600"/>  
+<br><br>
 
-Two-Tier-Architecture->
-![alt text](<SS_H3/Screenshot 2025-06-14 024600.png>)
-![alt text](<SS_H3/Screenshot 2025-06-14 034344.png>)
-![alt text](<SS_H3/Screenshot 2025-06-14 035208.png>)
+### 🧱 Reusable Terraform Modules  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 103709.png" width="600"/>  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 105241.png" width="600"/>  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 111802.png" width="600"/>  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 111922.png" width="600"/>  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 112011.png" width="600"/>  
+<br>  
+<img src="SS_H2/Screenshot 2025-06-13 112153.png" width="600"/>  
+<br><br>
+
+### 🏗️ Two-Tier Architecture Deployment  
+<br>  
+<img src="SS_H3/Screenshot 2025-06-14 024600.png" width="600"/>  
+<br>  
+<img src="SS_H3/Screenshot 2025-06-14 034344.png" width="600"/>  
+<br>  
+<img src="SS_H3/Screenshot 2025-06-14 035208.png" width="600"/>  
+<br><br>
+
+---
+
+### 📌 Notes:
+- Demonstrated provisioning of S3 buckets, EC2 instances, and backend remote state storage using Terraform.
+- Applied best practices including remote backends and reusable modules.
+- Final implementation included static hosting and two-tier architecture setup.
