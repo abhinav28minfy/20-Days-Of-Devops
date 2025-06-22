@@ -13,5 +13,5 @@ variable "instance_type"{
 variable "aws_instance_ami"{
     description="AMI"
     type=string
-    default="ami-0e670eb768a5fc3d4"
+    default="ami-00b7ea845217da02c"
 }
