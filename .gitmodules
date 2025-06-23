@@ -1,3 +1,7 @@
 [submodule "Day-8_Devops_Github-Actions"]
 	path = Day-8_Devops_Github-Actions
 	url = https://github.com/abhinav28minfy/Day-8_Devops_GItHub-Actions.git
+	
+[submodule "Day-9_Devops_Jenkins"]
+	path = Day-9_Devops_Jenkins
+	url = https://github.com/abhinav28minfy/Day-9_Devops_Jenkins.git
